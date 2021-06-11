@@ -111,7 +111,7 @@ Refer to the guide for [setting up your development environment](https://github.
 
 ### Submission Requirements
 
-1. Use the following link to create your private github repository for this assignment. The repository will be seeded with the skeleton code, test cases, and input files. [CarDB Practice]()
+1. Use the following link to create your private github repository for this assignment. The repository will be seeded with the skeleton code, test cases, and input files. [CarDB Practice](https://classroom.github.com/a/Ez8b3UF-)
 2. For full credit, make sure to follow all [Style Guidelines](https://github.com/CS601-F21/notes/blob/master/admin/style.md). Points will be deducted for each violation.
 
 ### Grading Rubric
